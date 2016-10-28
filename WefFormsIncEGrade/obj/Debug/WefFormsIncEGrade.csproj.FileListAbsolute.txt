@@ -1,0 +1,5 @@
+C:\projetosC#\WefFormsIncEGrade\WefFormsIncEGrade\bin\WefFormsIncEGrade.dll
+C:\projetosC#\WefFormsIncEGrade\WefFormsIncEGrade\bin\WefFormsIncEGrade.pdb
+C:\projetosC#\WefFormsIncEGrade\WefFormsIncEGrade\obj\Debug\ResolveAssemblyReference.cache
+C:\projetosC#\WefFormsIncEGrade\WefFormsIncEGrade\obj\Debug\WefFormsIncEGrade.dll
+C:\projetosC#\WefFormsIncEGrade\WefFormsIncEGrade\obj\Debug\WefFormsIncEGrade.pdb

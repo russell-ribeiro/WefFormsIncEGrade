@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Web Developer Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WefFormsIncEGrade", "WefFormsIncEGrade\WefFormsIncEGrade.csproj", "{7A58A9C2-CF49-4FE4-99EA-6B5B10CE5B7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A58A9C2-CF49-4FE4-99EA-6B5B10CE5B7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A58A9C2-CF49-4FE4-99EA-6B5B10CE5B7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A58A9C2-CF49-4FE4-99EA-6B5B10CE5B7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A58A9C2-CF49-4FE4-99EA-6B5B10CE5B7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
